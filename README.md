@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @temiafeye
-- 👀 I’m interested in Machine Learning, MLOps, Robotics 
+- 👀 I’m interested in Machine Learning, MLOps, GenAI
 - 🌱 I’m currently learning generative AI - diffusion methods
 - 💞️ I’m looking to collaborate on ...building generative models, discussing research around generative models
 - 📫 How to reach me ... twitter: @temiafeye
